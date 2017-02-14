@@ -8,4 +8,4 @@ The resulting logistic regression model can perform a binary classification of r
 Python packages used: BeautifulSoup, Pandas, NumPy, MatplotLib
 
 ### Dataset
-Top 10 reviews per restaurant for the first 60 most popular sushi restaurants in Bellevue, WA accordi accuracyng to Yelp.com
+Top 10 reviews per restaurant for the first 60 most popular sushi restaurants in Bellevue, WA according to Yelp.com.
